@@ -32,6 +32,8 @@ Autonomous PR/issue lanes, lab experiments, and the repair playbook keep the mac
 
 Start here: [docs/swarm/](./docs/swarm/)
 
+For Linear-driven agent work, scoped issues, review gates, and low-noise status rules, see [Agent Workflows](./docs/agent-workflows.md).
+
 - **Orchestrator Chat** — ask the control plane for one task, a decomposed mission, or a full broadcast.
 - **Multi-Agent Control Plane** — see persistent Hermes Agents, roles, state, runtime, and routing wires in one surface.
 - **Kanban TaskBoard** — plan backlog, ready, running, review, blocked, and done lanes without leaving the workspace.
